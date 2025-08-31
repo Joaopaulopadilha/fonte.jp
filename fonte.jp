@@ -1,0 +1,23 @@
+xz = 10
+def diga_ola():
+    print("Olá, mundo!\n")
+
+def soma(int a, int b):
+    resultado = a + b
+    return resultado
+
+class Carro no
+    def criar(s.marca, s.modelo, i.ano) 
+        marca = marca
+        modelo = modelo
+        ano = ano
+    
+    
+    def acelerar() 
+        print("{marca} {modelo} esta acelerando!\n")
+    
+    
+    def info() 
+        print("Carro: {marca} {modelo}, Ano: {ano}\n")
+    
+
